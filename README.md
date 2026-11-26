@@ -30,7 +30,7 @@ NUXT_PUBLIC_SITE_URL=https://amkargar.github.io/depyard-website \
 npm run generate
 ```
 
-Robots directives, page descriptions, Open Graph/Twitter metadata, canonical links, and SoftwareApplication structured data are included.
+Robots directives, page descriptions, canonical links, and SoftwareApplication structured data are included. The `public/depyard-social.png` 1200×630 branded dashboard card is used for Open Graph and large Twitter previews, with explicit image dimensions and alt text.
 
 ## GitHub Pages CI/CD
 
